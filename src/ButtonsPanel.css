@@ -1,0 +1,10 @@
+.buttonsPanel {
+    display: flex;
+    width: 200px;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+.buttonsPanel button {
+    height: 30px;
+}
